@@ -1,5 +1,6 @@
 # Meet Pybot: your friend
-
+#run the gui bot too and find the gui bot on this current repositry and make sure to make two txt files namig nlp python answer finals.txt and modules pythons.txt
+#it's not fully operable for all the medicenes and doctors but i am currently working on this to take it to a good level
 import nltk
 import warnings
 
