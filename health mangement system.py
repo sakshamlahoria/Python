@@ -1,3 +1,4 @@
+"'make 3 files naming Saksham.txt , Hammmad.txt and rohan.txt"'
 def getdate():
     import datetime
     return datetime.datetime.now()
